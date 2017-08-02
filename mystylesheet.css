@@ -1,12 +1,12 @@
 
 h1 {
-    color: "mediumaquamarine";
+    color: "blue";
     text-decoration: underline;
 }
-h3  {
-  font-family:"New Times Roman";
-  color: "peachpuff";
-  text-decoration: underline;
+p  {
+  font-family:"cursive";
+  color: "black";
+  text-decoration: ;
 }
 .dropdown {
     position: relative;
