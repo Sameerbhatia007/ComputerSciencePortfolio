@@ -1,11 +1,11 @@
 <style>
 h1 {
-    color: mediumaquamarine;
+    color: "mediumaquamarine";
     text-decoration: underline;
 }
 h3  {
-  font-family:New Times Roman;
-  color: peachpuff;
+  font-family:"New Times Roman";
+  color: "peachpuff";
   text-decoration: underline;
 }
 .dropdown {
