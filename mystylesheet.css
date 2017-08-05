@@ -3,6 +3,10 @@ h1 {
     color: blue;
     text-decoration: underline;
 }
+body  {
+    background-image: url("https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-58.jpg");
+}
+
 p  {
   font-family:cursive;
   color: black;
