@@ -17,6 +17,9 @@ li {
     position: relative;
     display: inline-block;
 }
+table, th, td {
+    border: 1px solid blue;
+}
 
 .dropdown-content {
     display: none;
