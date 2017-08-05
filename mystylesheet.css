@@ -8,6 +8,11 @@ p  {
   color: black;
   text-decoration: ;
 }
+li {
+  font-family:cursive;
+  color: black;
+  text-decoration: ;
+}
 .dropdown {
     position: relative;
     display: inline-block;
